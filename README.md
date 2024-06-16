@@ -1,3 +1,5 @@
+# This was a cool project and it might resurface later. But for now, Adios! 
+
 Scratch Cast (v0.01)
 
 Scratch Cast is a proof of concpet for a screencasting solution for Scratch by Anonymous_cat1 and co worked by Triducal.
